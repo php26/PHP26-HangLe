@@ -14,7 +14,7 @@ class CatController extends Controller
      */
     public function index()
     {
-        //
+        echo..:
     }
 
     /**
